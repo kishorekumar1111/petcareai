@@ -1,0 +1,6 @@
+{
+  "name": "PetCare AI",
+  "description": "An AI-powered virtual assistant that helps pet owners by answering questions, providing educational guidance, and offering personalized recommendations about pet care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
